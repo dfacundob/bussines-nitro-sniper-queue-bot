@@ -1,0 +1,13 @@
+[
+    {
+        "username": "root",
+        "password": "",
+        "host": "155.138.175.120",
+        "port": 22,
+        "sniperPath": "/root/sniper/data",
+        "sniperPatch": "/root/sniper",
+        "vps_name": "s1martin"
+    }
+    
+
+]

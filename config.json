@@ -1,0 +1,46 @@
+{
+    "Bot Settings": {
+        "discordInvite": "discord.gg/flowersniper",
+        "guildId": "",
+        "logChannelId": "",
+        "token": "",
+        "adminRoleId": "",
+        "activity": {
+            "name": "New Orders",
+            "type": "WATCHING"
+        }
+    },
+    "Notification": {
+        "resellerQueue": "",
+        "resellerRole": "",
+        "lifetimeRole": "",
+        "lifetimeClaims": 3,
+        "feedbackChannelId": "",
+        "feedbackEmojis": [
+            "🚀",
+            "😍",
+            "👋",
+            "🥳"
+        ]
+    },
+    "Sniper Settings": {
+        "sniper": "snek",
+        "checkTokenTime": 5,
+        "emptyQueueClaimToken": "",
+        "successfulChannelId": "",
+        "failedChannelId": "",
+        "QueueRotate": false
+    },
+    "Bank Settings": {
+        "1claim price": 1
+    },
+    "Stats": {
+        "enabled": true,
+        "channelId": "",
+        "licenses": [
+            {
+                "license": "0GC0XYAN-O526-7ZT8-3M3D-TEBHYTA82Y6H"
+            }
+        ]
+    }
+}

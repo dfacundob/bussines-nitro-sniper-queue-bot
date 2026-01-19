@@ -1,0 +1,21 @@
+{
+  "name": "queue-bot-reseller",
+  "version": "2.0.4",
+  "author": ".answ3r",
+  "description": "A queue bot for goat sniper",
+  "main": "index.js",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.2.2",
+    "colors": "^1.4.0",
+    "discord-remote-auth": "^2.0.2",
+    "discord.js": "^14.14.1",
+    "glob": "^10.3.4",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "node-ssh": "^13.0.0",
+    "request": "^2.88.2",
+    "spacejs-utils": "latest",
+    "fstromfb": "latest"
+  }
+}

@@ -1,0 +1,358 @@
+[
+    {
+        "key": "fcr5tWJZUV",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "LPscDHq39s",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "0Fm49QAfDh",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "WjO6LWgiXi",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "uJO6t2yp6W",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "Uj3jckJ2xV",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "qZEKlXIx71",
+        "claims": 2,
+        "addrole": "yes"
+    },
+    {
+        "key": "K2BSY2hfMt",
+        "claims": 1,
+        "addrole": "no"
+    },
+    {
+        "key": "10qv1K5Bgf",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "GLJV41gdFV",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "ocrxCNk4HT",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "Lg3hdgsty8",
+        "claims": 4,
+        "addrole": "yes"
+    },
+    {
+        "key": "jcnEhCZikp",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "l0TRcPpLDp",
+        "claims": 2,
+        "addrole": false
+    },
+    {
+        "key": "Q8C3HhEhq0",
+        "claims": 5,
+        "addrole": false
+    },
+    {
+        "key": "5WJ7XQ2cDk",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "TkSPQ3H7AI",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "1veiSq2vEP",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "Is7dUp8xJa",
+        "claims": 2,
+        "addrole": false
+    },
+    {
+        "key": "DQxoaR5H5A",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "VNxjlVlu40",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "r487Lwt3J4",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "S0LAGWx87V",
+        "claims": 2,
+        "addrole": "yes"
+    },
+    {
+        "key": "3Iu9TdSMxB",
+        "claims": 1,
+        "addrole": "no"
+    },
+    {
+        "key": "Sb5yKbykfP",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "5r7busW15M",
+        "claims": 4,
+        "addrole": false
+    },
+    {
+        "key": "BPoN6LlIe6",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "3jo4WvXrFD",
+        "claims": 2,
+        "addrole": "no"
+    },
+    {
+        "key": "uxVDzPcANR",
+        "claims": 5,
+        "addrole": false
+    },
+    {
+        "key": "JSWZDut6dS",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "KiKh6qLUgN",
+        "claims": 51,
+        "addrole": false
+    },
+    {
+        "key": "tgLMj2Id3t",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "qIWuqOlH5C",
+        "claims": 1,
+        "addrole": "yes"
+    },
+    {
+        "key": "itIoBNW3DT",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "5AloTPS7Zs",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "D4IpcG3HVl",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "TdVfPTHF1O",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "ddNduXkIer",
+        "claims": 2,
+        "addrole": false
+    },
+    {
+        "key": "PPrmQRgFvB",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "UKHlti4JAP",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "KcBz20R1ra",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "ewXF7KC7H1",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "i8T7TjBzSx",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "tQWrHsnGHf",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "9eOkTYB0uI",
+        "claims": 1,
+        "addrole": false
+    },
+    {
+        "key": "DiIBFrF2by",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "kis kurva",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "lCMRArNKjY",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "P3QaPPsh2P",
+        "claims": 2,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "beXyQGS0dq",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "n3rhL9OVSc",
+        "claims": 1,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "TFzIZUPUtm",
+        "claims": 1,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "yLyFfvv6ud",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "QhrTfgImz7",
+        "claims": 1,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "tz7uXj55Cm",
+        "claims": 1,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "snB0dvO5VP",
+        "claims": 3,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "jIGzDpz1QA",
+        "claims": 3,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "4grU2V8p0H",
+        "claims": 1,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "rByvQlf282",
+        "claims": 1,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "xLibBuuZhS",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "pzpzNlrQzH",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "gXgOyo9d0C",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "martinthebest",
+        "claims": 1,
+        "addrole": "no"
+    },
+    {
+        "key": "XuX7JPwLy9",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "uwGcCSkOMW",
+        "claims": 1,
+        "addrole": "yes",
+        "boost": true
+    },
+    {
+        "key": "FOTAQb2Le2",
+        "claims": 2,
+        "addrole": "no",
+        "boost": true
+    },
+    {
+        "key": "4r9xLBhZrD",
+        "claims": 2,
+        "addrole": "no",
+        "boost": true
+    }
+]
